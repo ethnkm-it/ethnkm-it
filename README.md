@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Ethan 👋
 
-<!--
-**ethnkm-it/ethnkm-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems Engineer with 8 years of experience supporting enterprise
+infrastructure, identity, endpoint management, and security operations.
 
-Here are some ideas to get you started:
+My background includes Microsoft Entra ID, Active Directory, Intune,
+Windows Server, VMware, PowerShell, endpoint security, and enterprise
+infrastructure supporting 15,000+ users.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently expanding my hands-on cybersecurity experience through
+SOC investigations, Microsoft Sentinel, Splunk, threat hunting,
+and detection engineering.
+
+## 🔐 Security & Identity
+
+- Microsoft Entra ID / Active Directory
+- MFA / Conditional Access / PIM
+- Microsoft Defender
+- Microsoft Intune
+- Identity Lifecycle Management
+
+## 🛡️ Security Operations
+
+- Microsoft Sentinel
+- Splunk
+- Suricata
+- ELK
+- Wireshark
+- Nessus
+- MITRE ATT&CK
+
+## ⚙️ Infrastructure & Automation
+
+- Windows Server
+- VMware
+- PowerShell
+- SCCM
+- Microsoft 365
+
+## 🔬 Featured Projects
+
+### SOC Investigation Portfolio
+Hands-on security investigations involving endpoint, network,
+authentication, and SIEM telemetry.
+
+### Microsoft Sentinel Detection Lab
+Incident investigation, KQL threat hunting, and detection engineering.
+
+### PowerShell Security Automation
+PowerShell tools for identity, endpoint, and security administration.
